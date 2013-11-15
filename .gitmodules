@@ -1,3 +1,6 @@
 [submodule "libs/jquery.uls"]
 	path = libs/jquery.uls
-	url = git@github.com:Cybernetic1/jquery.uls.git
+	url = https://github.com/Cybernetic1/jquery.uls.git
+[submodule "libs/jquery.ime"]
+	path = libs/jquery.ime
+	url = https://github.com/Cybernetic1/jquery.ime.git
