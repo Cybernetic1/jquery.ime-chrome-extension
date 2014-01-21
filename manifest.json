@@ -35,7 +35,8 @@
 			"libs/jquery.uls/css/jquery.uls.lcd.css",
 
 			"css/jquery.ime.chrome.css",
-			"css/jquery.uls.chrome.css"
+			"css/jquery.uls.chrome.css",
+			"css/jquery.conkey.chrome.css"
 		],
 
 		"js": [
