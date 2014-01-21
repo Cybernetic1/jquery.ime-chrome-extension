@@ -36,7 +36,7 @@
 
 			"css/jquery.ime.chrome.css",
 			"css/jquery.uls.chrome.css",
-			"css/jquery.conkey.chrome.css"
+			"libs/jquery.ime/css/jquery.ime.chinese.css"
 		],
 
 		"js": [
