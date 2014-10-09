@@ -10,7 +10,7 @@
 	"description": "Wikimedia Input Tools allows you to type in your native language from among 60+ languages.",
 	"version": "0.1",
 
-	"icons": { 
+	"icons": {
 		"16": "images/icon_16.png",
 		"48": "images/icon_48.png",
 		"128": "images/icon_128.png"
@@ -79,6 +79,7 @@
 		"libs/jquery.uls/images/clear.png",
 		"libs/jquery.uls/images/clear.svg",
 
+		"libs/jquery.ime/sending.ogg",
 		"images/help.png"
 	]
 }
